@@ -10,7 +10,7 @@ clc;
 
 % idft = fft(xk)
 
-xn = [1 2 3]
-hn = [1 2 1 -1]
+% xn = [1 2 3]
+% hn = [1 2 1 -1]
 
-yn = conv(xn, hn)
+% yn = conv(xn, hn)
